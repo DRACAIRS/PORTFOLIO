@@ -1,2 +1,25 @@
-# PORTFOLIO
-Professional portfolio website showcasing my work as a Designer and Engineer. Built with HTML, CSS, and Materialize for a clean, responsive experience. Includes projects, skills, and experience sections. Hosted on GitHub Pages for public viewing with full privacy of source files.
+# IMTIYAZ HASNAT — Personal Portfolio
+
+A modern personal portfolio website built using HTML, CSS, and JavaScript.
+
+This portfolio represents the professional profile of Imtiyaz Hasnat, combining expertise in:
+
+- Graphic Design
+- Web Development
+- Textile Engineering
+- Research & Analysis
+
+The website is designed with a clean UI, responsive layout, interactive navigation, and professional branding.
+
+---
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Ionicons
+- Google Fonts (Poppins)
+
+---
+## Contact
+If you want to contact me you can reach me at [Linkedin](https://www.linkedin.com/in/dracairs).
